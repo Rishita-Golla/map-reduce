@@ -1,0 +1,1 @@
+resources/data/shop_per_cust.txt,output/shop_per_cust,5

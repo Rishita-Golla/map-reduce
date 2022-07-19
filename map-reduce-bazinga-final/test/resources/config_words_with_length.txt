@@ -1,0 +1,1 @@
+resources/data/words_with_length.txt,output/word_wth_length,5

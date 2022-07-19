@@ -1,0 +1,1 @@
+resources/data/hamlet.txt,output/word_count,5
